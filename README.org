@@ -1,0 +1,52 @@
+* Cálculo Numérico
+** Cronograma
+
+  | Data             | Aula | Conteúdo                                                    | Status vídeo |
+  |------------------+------+-------------------------------------------------------------+--------------|
+  | [2021-05-10 Mon] |    1 | Live: apresentação da disciplina                            | N/A          |
+  | [2021-05-12 Wed] |    2 | Interpolações polinomiais: polinômios de Lagrange           | Gravado      |
+  | [2021-05-17 Mon] |    3 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-05-19 Wed] |    4 | Interpolações polinomiais: polinômios de Taylor             | Gravado      |
+  | [2021-05-24 Mon] |    5 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-05-26 Wed] |    6 | Zeros de funções: método da posição falsa                   | Gravado      |
+  | [2021-05-31 Mon] |    7 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-06-02 Wed] |    8 | Zeros de funções: método de Newton                          | Gravado      |
+  | [2021-06-07 Mon] |    9 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-06-09 Wed] |   10 | Integração numérica: regra do Trapézio                      |              |
+  | [2021-06-14 Mon] |   11 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-06-16 Wed] |   12 | Integração numérica: regra de Simpson                       |              |
+  | [2021-06-21 Mon] |   13 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-06-23 Wed] |   14 | Integração numérica: quadraturas de Gauss-Legendre          | Gravado      |
+  | [2021-06-28 Mon] |   15 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-06-30 Wed] |   16 | Integração numérica: integração em múltiplas variáveis      | Gravado      |
+  | [2021-07-05 Mon] |   17 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-07-07 Wed] |   18 | Derivação numérica: diferenças finitas via Taylor           | Gravado      |
+  | [2021-07-12 Mon] |   19 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-07-14 Wed] |   20 | Álgebra Linear Computacional: revisão                       | Gravado      |
+  | [2021-07-19 Mon] |   21 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-07-21 Wed] |   22 | Álgebra Linear Computacional: sistemas lineares             | Gravado      |
+  | [2021-07-26 Mon] |   23 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-07-28 Wed] |   24 | Álgebra Linear Computacional: Gauss-Jacobi e Gauss-Seidel   |              |
+  | [2021-08-02 Mon] |   25 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-08-04 Wed] |   26 | Álgebra Linear Computacional: pivoteamentos parcial e total | Gravado      |
+  | [2021-08-09 Mon] |   27 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-08-11 Wed] |   28 | Álgebra Linear Computacional: decomposição LU               | Gravado      |
+  | [2021-08-16 Mon] |   29 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-08-18 Wed] |   30 | Sistemas Não-lineares: método de Newton                     |              |
+  | [2021-08-23 Mon] |   31 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-08-25 Wed] |   32 | EDO: métodos de passo um                                    |              |
+  | [2021-08-30 Mon] |   33 | Live: tira-dúvidas                                          | N/A          |
+  | [2021-09-01 Wed] |   34 |                                                             |              |
+  | [2021-09-06 Mon] |   AF |                                                             | N/A          |
+  | [2021-09-08 Wed] |   AF |                                                             | N/A          |
+
+** Entregas
+
+  | Data             | Entrega     |
+  |------------------+-------------|
+  | [2021-06-09 qua] | aulas 1-8   |
+  | [2021-07-07 qua] | aulas 10-16 |
+  | [2021-07-14 qua] | aula 18     |
+  | [2021-08-18 qua] | aulas 20-28 |
+  | [2021-09-01 qua] | aulas 30-32 |
+
