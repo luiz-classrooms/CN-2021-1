@@ -1,4 +1,7 @@
 * Cálculo Numérico
+
+  Link para playlist: https://www.youtube.com/playlist?list=PLRDuHd2Ia_bt03s2uHbxvFY_g790DZKhS
+
 ** Cronograma
 
   | Data             | Aula | Conteúdo                                                    | Status vídeo |
