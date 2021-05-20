@@ -15,7 +15,7 @@
   | [2021-05-31 Mon] |    7 | Live: tira-dúvidas                                          | N/A          |
   | [2021-06-02 Wed] |    8 | Zeros de funções: método de Newton                          | Gravado      |
   | [2021-06-07 Mon] |    9 | Live: tira-dúvidas                                          | N/A          |
-  | [2021-06-09 Wed] |   10 | Integração numérica: regra do Trapézio                      |              |
+  | [2021-06-09 Wed] |   10 | Integração numérica: regra do Trapézio                      | Gravado      |
   | [2021-06-14 Mon] |   11 | Live: tira-dúvidas                                          | N/A          |
   | [2021-06-16 Wed] |   12 | Integração numérica: regra de Simpson                       |              |
   | [2021-06-21 Mon] |   13 | Live: tira-dúvidas                                          | N/A          |
