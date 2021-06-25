@@ -29,7 +29,7 @@
   | [2021-07-19 Mon] |   21 | Live: tira-dúvidas                                          | N/A          |
   | [2021-07-21 Wed] |   22 | Álgebra Linear Computacional: sistemas lineares             | Gravado      |
   | [2021-07-26 Mon] |   23 | Live: tira-dúvidas                                          | N/A          |
-  | [2021-07-28 Wed] |   24 | Álgebra Linear Computacional: Gauss-Jacobi e Gauss-Seidel   |              |
+  | [2021-07-28 Wed] |   24 | Álgebra Linear Computacional: Gauss-Jacobi e Gauss-Seidel   | Gravado      |
   | [2021-08-02 Mon] |   25 | Live: tira-dúvidas                                          | N/A          |
   | [2021-08-04 Wed] |   26 | Álgebra Linear Computacional: pivoteamentos parcial e total | Gravado      |
   | [2021-08-09 Mon] |   27 | Live: tira-dúvidas                                          | N/A          |
