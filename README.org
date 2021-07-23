@@ -35,7 +35,7 @@
   | [2021-08-09 Mon] |   27 | Live: tira-dúvidas                                          | N/A          |
   | [2021-08-11 Wed] |   28 | Álgebra Linear Computacional: decomposição LU               | Gravado      |
   | [2021-08-16 Mon] |   29 | Live: tira-dúvidas                                          | N/A          |
-  | [2021-08-18 Wed] |   30 | Sistemas Não-lineares: método de Newton                     |              |
+  | [2021-08-18 Wed] |   30 | Sistemas Não-lineares: método de Newton                     | Gravado      |
   | [2021-08-23 Mon] |   31 | Live: tira-dúvidas                                          | N/A          |
   | [2021-08-25 Wed] |   32 | EDO: métodos de passo um                                    |              |
   | [2021-08-30 Mon] |   33 | Live: tira-dúvidas                                          | N/A          |
