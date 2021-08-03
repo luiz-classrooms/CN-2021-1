@@ -37,7 +37,7 @@
   | [2021-08-16 Mon] |   29 | Live: tira-dúvidas                                          | N/A          |
   | [2021-08-18 Wed] |   30 | Sistemas Não-lineares: método de Newton                     | Gravado      |
   | [2021-08-23 Mon] |   31 | Live: tira-dúvidas                                          | N/A          |
-  | [2021-08-25 Wed] |   32 | EDO: métodos de passo um                                    |              |
+  | [2021-08-25 Wed] |   32 | EDO: métodos de passo um                                    | Gravado      |
   | [2021-08-30 Mon] |   33 | Live: tira-dúvidas                                          | N/A          |
   | [2021-09-01 Wed] |   34 |                                                             |              |
   | [2021-09-06 Mon] |   AF |                                                             | N/A          |
